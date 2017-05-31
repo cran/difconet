@@ -1,0 +1,8 @@
+e3de43d767170fc1a4ad6787857f52a0 *DESCRIPTION
+c8f97a468a27893db153ac3abab7721a *NAMESPACE
+8e01cd702fe42ffd8a79e8e232ae2ba6 *R/difconet.R
+d9e62379d95a1bbe2175f9e4466d269c *man/difconet.build.controlled.dataset.Rd
+11cf0b8677102ed1a5cf8de5ae206bbf *man/difconet.noise.inspection.Rd
+74fa6b7359ad90b3e2ed9fc966a237a5 *man/difconet.plot.gene.correlations.Rd
+3be5190f4919a7a1d8174f856f118cd5 *man/difconet.plot.histograms.heatmap2.Rd
+7a4a3f8dba6c0c5d447299f513b196f4 *man/difconet.run.Rd

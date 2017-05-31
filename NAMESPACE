@@ -1,0 +1,12 @@
+
+import(stats, utils, stringr, data.table, mvtnorm, graphics, grDevices)
+
+importFrom("gplots", "heatmap.2")
+
+export(
+    difconet.noise.inspection, 
+    difconet.build.controlled.dataset,
+    difconet.run,
+    difconet.plot.gene.correlations,
+    difconet.plot.histograms.heatmap2
+    )
